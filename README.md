@@ -77,7 +77,11 @@
 
   <div class="card" id="about">
     <h2>About Me</h2>
-    <p>I am learning web development and building my skills.</p>
+    <p>
+I am Kamogelo Mashaba, an IT Level 4 graduate with a strong interest in technology and web development. 
+I am passionate about learning new skills, building websites, and growing my knowledge in the IT field. 
+I am motivated, dedicated, and always ready to take on new challenges to improve myself and my career.
+</p>.
   </div>
 
   <div class="card" id="projects">
