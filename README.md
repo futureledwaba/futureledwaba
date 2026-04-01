@@ -45,12 +45,16 @@
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   }
 
-  footer {
-    background: #222;
-    color: white;
-    text-align: center;
-    padding: 15px;
-  }
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
 </style>
 
 </head>
@@ -81,7 +85,7 @@
 I am Kamogelo Mashaba, an IT Level 4 graduate with a strong interest in technology and web development. 
 I am passionate about learning new skills, building websites, and growing my knowledge in the IT field. 
 I am motivated, dedicated, and always ready to take on new challenges to improve myself and my career.
-</p>.
+</p>
   </div>
 
   <div class="card" id="projects">
