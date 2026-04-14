@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+m                                                                                                                                                                                                                                                                                                                                                                                                                                                         <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -88,14 +88,17 @@ I am motivated, dedicated, and always ready to take on new challenges to improve
 </p>
   </div>
 
-  <div class="card" id="projects">
+<div class="card" id="projects">
     <h2>Projects</h2>
-    <p>My projects will be added here soon.</p>
-  </div>
+    <h3>My personal Website</h3>
+    <p>its based on the website i build using CSS and HTML to showcase my profile</p>
+    <h4>mechanical web app development</h4>
+    <p>This development is based on promoting services to customers through local machanics which are good at their duties and they will be able to provide best services to the requesters                               
+ </div>
 
   <div class="card" id="contact">
-    <h2>Contact</h2>
-    <p>Email: example@email.com</p>
+    <h2>Contact:0637308308</h2>
+    <p>Email:loyaltymash10@gmail.com</p>
   </div>
 
 </div>
