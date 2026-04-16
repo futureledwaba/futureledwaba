@@ -78,14 +78,19 @@ html {
     <h2>Home</h2>
     <p>Welcome to my website.</p>
   </div>
-
-<div style="text-align: center;">
-  <h2>About Me</h2>
-  <img src="profile.jpg" alt="My Profile Picture" width="150" style="border-radius:50%;">
-  <p>
-    I am Kamogelo Mashaba, an IT Level 4 graduate with a strong interest in technology and web development. 
-    I am passionate about learning new skills, building websites, and growing my knowledge in the IT field. 
-    I am motivated, dedicated, and always ready to take on new challenges to improve myself and my career.
+  
+<div class="card" id="about">
+  <h2 style="text-align: center;">About Me</h2>
+  
+  <div style="text-align: center; margin: 20px 0;">
+    <img src="profile.jpg" alt="Profile Picture" class="profile-pic">
+  </div>
+  
+ <p style="text-align: center;">
+    I am <strong>Kamogelo Mashaba</strong>, an IT Level 4 graduate with a strong interest in 
+    technology and web development. I enjoy building websites and continuously improving my skills 
+    in the IT field. I am dedicated, motivated, and eager to take on new challenges that help me grow 
+    professionally.
   </p>
 </div>
 
