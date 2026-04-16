@@ -55,6 +55,13 @@ footer {
 html {
   scroll-behavior: smooth;
 }
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #444;
+}
 </style>
 
 </head>
@@ -101,10 +108,11 @@ html {
     <h4>mechanical web app development</h4>
     <p>This development is based on promoting services to customers through local machanics which are good at their duties and they will be able to provide best services to the requesters </p>                                </div>
 
-  <div class="card" id="contact">
-    <h2>Contact:0637308308</h2>
-    <p>Email:loyaltymash10@gmail.com</p>
-  </div>
+<div class="card" id="contact">
+  <h2>Contact</h2>
+  <p>📞 Phone: <a href="tel:0637308308">063 730 8308</a></p>
+  <p>📧 Email: <a href="mailto:loyaltymash10@gmail.com">loyaltymash10@gmail.com</a></p>
+</div>
 
 </div>
 
